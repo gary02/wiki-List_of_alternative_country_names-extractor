@@ -1,6 +1,6 @@
 # wiki-List_of_alternative_country_names-extractor
 
-extract contries alternative names info from this wiki page
+Extract contries alternative names info from [this wiki page](https://en.wikipedia.org/wiki/List_of_alternative_country_names)
 
 ## dependency
 
@@ -30,4 +30,3 @@ Zimbabwe,Republic of Rhodesia,Republic of Zimbabwe,Rhodesia,Southern Rhodesia
 ## License
 
 MIT
-
