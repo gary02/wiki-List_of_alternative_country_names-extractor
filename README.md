@@ -11,7 +11,7 @@ Extract contries alternative names info from [this wiki page](https://en.wikiped
 
 command:
 ```
-python run.py | tee /tmp/output.txt
+$ python run.py | tee /tmp/output.txt
 ```
 
 output.txt:

@@ -16,7 +16,7 @@ def extract(html):
 
     sel = Selector(text=html)
 
-    for table_i in range(7,50,2):
+    for table_i in range(7, 50, 2):
         for tr_i in range(2, 30):
             common_name  = get_common_name_in_description(table_i, tr_i, sel)
             if common_name:
